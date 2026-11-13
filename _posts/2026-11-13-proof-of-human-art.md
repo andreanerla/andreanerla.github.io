@@ -4,6 +4,8 @@ title: "I tried to build proof that art isn't AI. The people who ban AI didn't n
 date: 2026-11-13
 ---
 
+<img src="/assets/images/timelapse.png" alt="Procreate time-lapse compared with the final image" class="post-figure-right">
+
 For three weeks I worked on a side project with a simple premise: AI
 detectors guess from the final image, but whether a human made a picture is a
 fact about *how* it was made. Digital illustrators already record that. Procreate
