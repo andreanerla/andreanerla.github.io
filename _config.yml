@@ -1,2 +1,11 @@
 title: escandescenze
+author: Andrea Ner;a
+description: >-
+  all the stuff on my mind.
+url: "https://escandescenze.github.io"
+lang: en
 theme: minima
+github_username: escandescenze
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
